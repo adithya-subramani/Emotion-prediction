@@ -1,2 +1,2 @@
 # Emotion-detection
-Text based Emotion detection using LSTM
+Text based Emotion prediction using LSTM
